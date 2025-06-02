@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8c/3c/6a/8c3c6a09eea41ed6c6c9aaeced0951b2.gif" margin="auto" display="block">
+  <img src="https://i.pinimg.com/originals/56/00/5a/56005a1acfe12d3df3e97c646d81b561.gif" margin="auto" display="block">
 </div>
 <h1 align="center">Hi 👋, I'm Farhan Nasim Dipto</h1>
 <h3 align="center">Full-Stack developer from bangladesh</h3>
