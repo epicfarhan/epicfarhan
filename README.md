@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="400" padding-bottom="200px" src="https://64.media.tumblr.com/174649157068cf33af103b8b3ea84cb9/056cb5ccfa47db24-e1/s500x750/8b8fda1f4ec568bc080fdd14dc7094775c96bcef.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epicfarhan&label=Profile%20views&color=0e75b6&style=flat" alt="epicfarhan" /> </p>
 
-- 🔭 I’m currently working on **Laravel & React**
+- 🔭 I’m currently working on **Full Stack Websites**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **react, express, UI Design**
 
