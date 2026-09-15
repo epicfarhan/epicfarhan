@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Farhan Nasim Dipto</h1>
 <h3 align="center">Full-Stack developer from bangladesh</h3>
 <img align="right" alt="Coding" width="400" padding-bottom="200px" src="https://i.pinimg.com/1200x/04/5e/37/045e37249e2be2210a569995514f1d21.jpg">
-<p align="left margin-bottom=1000px"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=epicfarhan&label=Profile%20views&color=0e75b6&style=flat" alt="epicfarhan"/> 
 </p>
 
@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I like apple juice**
 
-
+<p align="margin-bottom=1000px">hello</p>
 
 
 
