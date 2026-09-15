@@ -4,10 +4,10 @@
 <h1 align="center">Hi 👋, I'm Farhan Nasim Dipto</h1>
 <h3 align="center">Full-Stack developer from bangladesh</h3>
 <img align="right" alt="Coding" width="400" padding-bottom="200px" src="https://i.pinimg.com/1200x/04/5e/37/045e37249e2be2210a569995514f1d21.jpg">
-<p align="left" style="padding: 20px;"> 
+<p align="left margin-bottom=100px"> 
   <img src="https://komarev.com/ghpvc/?username=epicfarhan&label=Profile%20views&color=0e75b6&style=flat" alt="epicfarhan"/> 
 </p>
-<div style="padding-top: 20px"></div>
+
 
 - 🔭 I’m currently working on **Full Stack Websites**
 
