@@ -7,6 +7,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=epicfarhan&label=Profile%20views&color=0e75b6&style=flat" alt="epicfarhan"/> 
 </p>
+<div style="padding-top: 20px"></div>
 
 - 🔭 I’m currently working on **Full Stack Websites**
 
