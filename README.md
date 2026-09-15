@@ -9,6 +9,12 @@
 </p>
 
 
+
+
+
+
+
+
 - 🔭 I’m currently working on **Full Stack Websites**
 
 - 🌱 I’m currently learning **Backend**
@@ -19,7 +25,7 @@
 
 - ⚡ Fun fact **I like apple juice**
 
-<p align="padding-bottom=1000px">hello</p>
+
 
 
 
